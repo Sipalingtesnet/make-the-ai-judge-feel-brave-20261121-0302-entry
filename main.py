@@ -3,7 +3,7 @@ import os
 TEXT = (
     "Morning comes through the window in a slow square, moving across the "
     "floor an inch at a time. Dust turns in it, unhurried. You watch it reach "
-    "the chair, the table, the far wall, and you are not late for anything. "
+    "the chair, the table, the far wall. You are not late for anything. "
     "The light will find you wherever you stand."
 )
 
